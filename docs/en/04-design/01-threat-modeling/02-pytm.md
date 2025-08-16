@@ -7,7 +7,7 @@ Pytm is an OWASP Lab Project with a community of contributors creating [regular 
 
 #### What is pytm?
 
-Pytm is a Java library that provides programmatic way of threat modeling;
+Pytm is a Python library that provides programmatic way of threat modeling;
 the application model itself is defined as a python3 source file and follows Python program syntax.
 Findings are included in the application model python program with threats defined as rows in an associated text file.
 The threat file can be reused between projects and provides for accumulation of a knowledge base.
